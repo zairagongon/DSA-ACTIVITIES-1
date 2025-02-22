@@ -197,9 +197,9 @@ int main() {
     cout << endl;
     
     
-    cout << binarySearch(20, 0, numElem);
+    cout << binarySearch(9, 0, numElem);
     cout << endl;
-    cout << binarySearch(38, 0, numElem);
+    cout << binarySearch(7, 0, numElem);
     cout << endl;
     traverseArray();
     return 0;
